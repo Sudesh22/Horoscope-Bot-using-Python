@@ -72,3 +72,8 @@ Now the only thing remaining is to launch the bot and to do it we add the follow
 ```Python
 bot.infinity_polling()
 ```
+
+## Snaps of the project
+<p align=center>
+  <img src="Resources/example1.svg">
+</p>
